@@ -2,6 +2,10 @@
 
 Fetch a URL over HTTP or HTTPS and print the body. One C89 file, no curl, no wget.
 
+[web](https://github.com/krzysztofMarciniak/web) - A small terminal HTML reader in one C89 file. 
+[rss89](https://github.com/KrzysztofMarciniak/rss89) - Minimal RSS/Atom reader in C89 (+ POSIX). Two commands, plain files, no libraries.
+[see89](https://github.com/KrzysztofMarciniak/see89) - Search wiby.me and DuckDuckGo (html version) from the terminal. 
+
 ## Build
 
 With HTTPS (needs OpenSSL 1.1.0 or newer, e.g. `libssl-dev`):
